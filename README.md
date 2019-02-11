@@ -1,2 +1,2 @@
 # teaching-Qbox
-Introduction to the [Qbox code](qboxcode.org)
+Introduction to the [Qbox code](http://qboxcode.org)
