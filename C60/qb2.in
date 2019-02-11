@@ -1,6 +1,6 @@
-load c60gs_pbe.xml 
+load c60gs_lda.xml 
 
-set xc LDA
+set xc PBE
 set ecut 35
 set wf_dyn PSDA
 set scf_tol 1.e-8

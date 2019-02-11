@@ -64,11 +64,11 @@ atom C59 carbon -4.8925 -4.3362 1.3674
 atom C60 carbon -2.6800 -5.7036 2.2125
 
 set ecut 35
-set xc PBE
+set xc LDA
 set wf_dyn PSDA
 set scf_tol 1.e-8
 randomize_wf 0.01
 run -atomic_density 0 40 10
 set wf_diag T
 run 0
-save c60gs_pbe.xml
+save c60gs_lda.xml

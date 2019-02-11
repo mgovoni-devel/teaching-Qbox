@@ -1,4 +1,4 @@
-load c60gs_pbe.xml 
+load c60gs_lda.xml 
 
 set xc PBE0
 set ecut 35
