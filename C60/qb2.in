@@ -1,0 +1,10 @@
+load c60gs_pbe.xml 
+
+set xc LDA
+set ecut 35
+set wf_dyn PSDA
+set scf_tol 1.e-8
+randomize_wf 0.01
+run -atomic_density 0 40 10
+set wf_diag T
+run 0

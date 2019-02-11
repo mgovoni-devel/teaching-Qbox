@@ -1,0 +1,8 @@
+load c60gs_pbe.xml 
+
+set xc LDA
+set ecut 35
+set wf_dyn PSDA
+set scf_tol 1.e-8
+set atoms_dyn CG
+run 20 20
