@@ -1,5 +1,11 @@
 # Electronic structure of C<sub>60</sub>
 
+Useful links:
+- [Qbox code](http://qboxcode.org/)
+- [Qbox commands](http://qboxcode.org/doc/html/usage/commands.html)
+- [Qbox variables](http://qboxcode.org/doc/html/usage/variables.html)
+- [SG15 Pseudopotentials](http://www.quantum-simulation.org/potentials/sg15_oncv/xml/)
+
 Legend:
 - <i>CFU: Check For Understanding</i>
 - <i>Q: Question</i>
