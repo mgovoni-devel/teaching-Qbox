@@ -6,6 +6,12 @@ Useful links:
 - [Qbox variables](http://qboxcode.org/doc/html/usage/variables.html)
 - [SG15 Pseudopotentials](http://www.quantum-simulation.org/potentials/sg15_oncv/xml/)
 
+Interaction with the scheduler:
+
+- `sbatch name_of_script.sh`: submission
+- `squeue -u $USER`: query status of all my jobs
+- `scancel job_id`: cancel the submission of job_id
+
 Legend:
 - <i>CFU: Check For Understanding</i>
 - <i>Q: Question</i>
