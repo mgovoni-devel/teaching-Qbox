@@ -8,9 +8,9 @@ Useful links:
 
 Interaction with the scheduler:
 
-- `sbatch name_of_script.sh`: submission
-- `squeue -u $USER`: query status of all my jobs
-- `scancel job_id`: cancel the submission of job_id
+- `sbatch name_of_script.sh`: submit a job to the scheduler, a job_id will be generated
+- `squeue -u $USER`: query status of all my jobs, job_ids can be retrieved from the output of this command
+- `scancel job_id`: cancel the job identified by job_id
 
 Legend:
 - <i>CFU: Check For Understanding</i>
